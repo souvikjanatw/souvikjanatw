@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Souvik
 - 👀 I’m interested in Programming, Web Dev...
-- 🌱 I’m currently learning Java to complete dev bootcamp
+- 🌱 I’m currently learning about Serviceworker
 - 💞️ I’m looking to collaborate on building projects
 - 📫 How to reach me? Send email @[souvikjana](mailto:souvikjana2013@gmail.com)
 
